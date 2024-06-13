@@ -43,7 +43,7 @@ export default class Responsive extends Component {
       ]
     };
     return (
-      <div style={{width:"95%",margin:"auto",height:"400px",paddingTop:10, boxShadow: "0 0 10px rgba(0, 0, 0, 0.1)"}}>
+      <div style={{width:"94%",margin:"auto",height:"400px",paddingTop:10, boxShadow: "0 0 10px rgba(0, 0, 0, 0.1)"}}>
         <Slider {...settings}>
           <div style={{height:"100%",margin:"auto",border:"1px solid blue" ,width:"31.66px"}}>
             <img style={{height:"400px", margin:"auto" ,width:"80%"}}  src="https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg" alt="" />
